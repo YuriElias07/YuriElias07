@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu Perfil no GitHub!
 
-Sou apaixonado por desenvolvimento de software e estudo na área de Ciência da Computação!
+Sou apaixonado por desenvolvimento de software e estudo na área de Engenharia da Computação!
 E esse é meu espaço de aprendizagem e criação, onde cada linha de código é uma nova conquista! 💻📚🚀
 
 ## Linguagens, Ferramentas e Tecnologias
@@ -24,16 +24,17 @@ E esse é meu espaço de aprendizagem e criação, onde cada linha de código é
 
 ## Links Importantes
 <p align="center">
-    <a href="[LINK DO SEU LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-   <a href="[LINK DO SEU INSTAGRAM]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href = "mailto:yuririelias15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/yuri-elias-491221255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/yuriea_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
  </p>
 
 ## Uma Frase!
 >"Programar não é sobre o código que escrevemos, é sobre os problemas que resolvemos."
     
 <p align="center">
-   <img src="![image](https://github.com/user-attachments/assets/9b9b8a56-8f32-4c98-bf5d-939201cad0a1)
-" width= "200px" alt="[sua imagem ou avatar]" />
+   <img src="https://github.com/user-attachments/assets/9b9b8a56-8f32-4c98-bf5d-939201cad0a1" width= "250px" alt="[sua imagem ou avatar]" />
+    <img src="https://github.com/user-attachments/assets/cfe90301-9243-4fd4-8dae-520f096e0035" width= "250px" alt="[sua imagem ou avatar]" />
 </p>
 
 ## Repositorios em destaque
