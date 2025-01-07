@@ -41,7 +41,14 @@ E esse é meu espaço de aprendizagem e criação, onde cada linha de código é
 </p>
 
 ## Repositorios em destaque
-
-**Repositório 1**: [Nome do Repositório 1](URL do repositório 1). 
-**Repositório 2**: [Nome do Repositório 2](URL do repositório 2). 
-**Repositório 3**: [Nome do Repositório 3](URL do repositório 3). 
+<div style="display: flex; flex-direction: column; border: 2px solid #3498db; padding: 10px; border-radius: 8px;">
+  <div style="margin-bottom: 10px;">
+    <span style="font-weight: bold;">Repositório 1</span>: <a target="blank" href="https://github.com/YuriElias07/IndustriasWayne_React.js">Projeto Final de Curso</a>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <span style="font-weight: bold;">Repositório 2</span>: <a target="blank" href="https://github.com/YuriElias07/popcornflix">PopcornFlix</a>
+  </div>
+    <div style="margin-bottom: 10px;">
+    <span style="font-weight: bold;">Repositório 3</span>: <a target="blank" href="https://github.com/YuriElias07/Portfolio">Portfolio</a>
+  </div>
+</div>
