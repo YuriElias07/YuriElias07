@@ -32,7 +32,8 @@ E esse é meu espaço de aprendizagem e criação, onde cada linha de código é
 >"Programar não é sobre o código que escrevemos, é sobre os problemas que resolvemos."
     
 <p align="center">
-   <img src="[URL DA SUA IMAGEM DE PERFIL]" width= "200px" alt="[sua imagem ou avatar]" />
+   <img src="![image](https://github.com/user-attachments/assets/9b9b8a56-8f32-4c98-bf5d-939201cad0a1)
+" width= "200px" alt="[sua imagem ou avatar]" />
 </p>
 
 ## Repositorios em destaque
