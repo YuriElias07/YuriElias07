@@ -33,7 +33,7 @@ E esse é meu espaço de aprendizagem e criação, onde cada linha de código é
  </p>
  
 ##
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+>  "Education is the most powerful weapon which you can use to change the world." — Nelson Mandela
     
 <p align="center">
     <img src="https://github.com/user-attachments/assets/c0f51596-6564-42c4-b830-d5104ede4edf" width= "250px" alt="[sua imagem ou avatar]" />
