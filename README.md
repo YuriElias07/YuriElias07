@@ -36,8 +36,8 @@ E esse é meu espaço de aprendizagem e criação, onde cada linha de código é
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
     
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/9b9b8a56-8f32-4c98-bf5d-939201cad0a1" width= "250px" alt="[sua imagem ou avatar]" />
-    <img src="https://github.com/user-attachments/assets/cfe90301-9243-4fd4-8dae-520f096e0035" width= "250px" alt="[sua imagem ou avatar]" />
+    <img src="https://github.com/user-attachments/assets/c0f51596-6564-42c4-b830-d5104ede4edf" width= "250px" alt="[sua imagem ou avatar]" />
+    <img src="https://github.com/user-attachments/assets/0390a098-9c5c-40d3-9a2a-3fa521bc74ae" width= "250px" alt="[sua imagem ou avatar]" />
 </p>
 
 ## Repositorios em destaque
