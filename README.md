@@ -42,4 +42,4 @@ E esse é meu espaço de aprendizagem e criação, onde cada linha de código é
 
 ![snake gif](https://github.com/YuriElias07/YuriElias07/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=YuriElias07&repo=YuriElias07&theme=react)](https://github.com//YuriElias07/YuriElias07)
+
