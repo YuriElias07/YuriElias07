@@ -40,6 +40,6 @@ E esse é meu espaço de aprendizagem e criação, onde cada linha de código é
     <img src="https://github.com/user-attachments/assets/0390a098-9c5c-40d3-9a2a-3fa521bc74ae" width= "250px" alt="[sua imagem ou avatar]" />
 </p>
 
-![snake gif](https://github.com/YuriElias07/YuriElias07/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/YuriElias07/YuriElias07/output/snake.svg" alt="Snake animation" />
 
 
