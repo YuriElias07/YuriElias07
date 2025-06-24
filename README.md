@@ -40,15 +40,6 @@ E esse é meu espaço de aprendizagem e criação, onde cada linha de código é
     <img src="https://github.com/user-attachments/assets/0390a098-9c5c-40d3-9a2a-3fa521bc74ae" width= "250px" alt="[sua imagem ou avatar]" />
 </p>
 
-## Repositorios em destaque
-<div style="display: flex; flex-direction: column; border: 2px solid #3498db; padding: 10px; border-radius: 8px;">
-  <div style="margin-bottom: 10px;">
-    <span style="font-weight: bold;">Repositório 1</span>: <a target="blank" href="https://github.com/YuriElias07/IndustriasWayne_React.js">Projeto Final de Curso</a>
-  </div>
-  <div style="margin-bottom: 10px;">
-    <span style="font-weight: bold;">Repositório 2</span>: <a target="blank" href="https://github.com/YuriElias07/popcornflix">PopcornFlix</a>
-  </div>
-    <div style="margin-bottom: 10px;">
-    <span style="font-weight: bold;">Repositório 3</span>: <a target="blank" href="https://github.com/YuriElias07/Portfolio">Portfolio</a>
-  </div>
-</div>
+![snake gif](https://github.com/YuriElias07/YuriElias07/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=YuriElias07&repo=YuriElias07&theme=react)](https://github.com//YuriElias07/YuriElias07)
