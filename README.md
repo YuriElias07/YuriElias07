@@ -1,7 +1,7 @@
 # Olá! 👋 Bem-vindo ao meu Perfil no GitHub!
 
 Sou apaixonado por desenvolvimento de software e estudo na área de Engenharia da Computação!
-E esse é meu espaço de criação, onde cada linha de código é uma nova conquista! 💻📚🚀
+E esse é meu espaço de aprendizagem e criação, onde cada linha de código é uma nova conquista! 💻📚🚀
 
 ## Linguagens, Ferramentas e Tecnologias
 
