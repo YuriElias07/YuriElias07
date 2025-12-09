@@ -41,3 +41,7 @@ E esse é meu espaço de aprendizagem e criação, onde cada linha de código é
 </p>
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YuriElias07/YuriElias07/output/snake.svg" alt="Snake animation" />
+</div>
+
